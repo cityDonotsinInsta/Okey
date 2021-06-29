@@ -74,6 +74,7 @@ function changeFileInside($fileName1, $fileName2)
 
 }
 
+
 //echo deleteTooMuchSpacesAndStaffSlashS("Okey 	Not Okey		Okey	 2");
 
 //(2)
