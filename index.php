@@ -78,7 +78,7 @@ function changeFileInside($fileName1, $fileName2)
 //echo deleteTooMuchSpacesAndStaffSlashS("Okey 	Not Okey		Okey	 2");
 
 //(2)
-changeFileInside("text1.txt","text2.txt");
+changeFileInside("./text1.txt","./text2.txt");
 
 textMultiplier("TimeBreak", 17)
 
