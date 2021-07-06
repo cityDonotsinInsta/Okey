@@ -1,0 +1,3 @@
+(Ruby)How do we call de block declaration not de Lambds 2nd one?)+) 
+(Ruby)What is the difference between lambda and de previous point one(?Proc is bad)+)Kinda lambda gives control back to de method proc not! Secondly Lambda checks de amount of de arguments passed while Proc nope.
+(RegEX)Are file names got a different regular expressions? What is the difference? (Null values real-life))+) kinda list of an other rules some got no meaning)

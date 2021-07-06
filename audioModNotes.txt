@@ -1,0 +1,5 @@
+1.MOD (PHP point easier to use smaller structs to make de big) Now memory golden structure available
+2.
+3.
+4.
+5.

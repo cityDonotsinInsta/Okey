@@ -1124,16 +1124,66 @@ Day20.
 (xWebSiteDevelopment)More we do practise more what (About de techlead advise)?)+)We are getting much better 
 (xWebSiteDevelopment)Bigger patterns like dat programm what are we gonna make for it?(Not simply de text, might be text file there so))+)We are gonna make de folder for it
 (xWebSiteDevelopment)Where we may find some version control errors? Seen it after de installation (Kinda audi))+)npm audit
+(xPhysicsOlympics)Small simple formula about de counter-speed to de vertical moving object?(Free fall only)+)It is about de g multiplied with de t
+(xPhysicsOlympics)About de mirror formula 2nd world layer where de object moves vertically how to make dat mech to work better?)+) Do not forget to double it in de standart formula because de movement possition is opposite im not sure recheck kinda particles moves in de flask (oh de name of de server side super thingy!)
+(xPhysicsOlympics)
+(xPhysicsOlympics)Dat trick with de eyes to eliminate de pressure how to do it(After de exercise)?)+) After de exercise put de eye a bit to de angle it is gonna fall kinda or smth
+(xAlgorithms)What is de first Data Struct of dat course (From de techlead and de teacher, kinda Steak) actually de second one after de AST is de Stack!
+(xAlgorithms)What is de first solution coming up into de mind with de recursive one(Kinda lift going up going down)?)+)It is about de break if de upper lvl of de bracets pooped and dat lower lvl bracket got no pair so, in some cases it is okey, so simply de break in de lvl differences (may be wrong - simply de start of de thinking)
+(xAlgorithms)Thoughts about de stack check how do we do it in de stack(Kinda closing closing smaller and previous)?)+)And watch for de lvls of de parenthesis or brackets to not break de cycle of our logic
+(xAlgorithms)Oh SO, what do we learn each point Depth-first, Breadth-first and Parenthesis match not only de algorithms what else?)+) We do learn de cool Data Structures like de AST or Stack
+(xMathOly)What is de value of de cos and sin always de limits(Hypo doing it!!!)?)+) De positive value never goes more dan 1 because of de Hypotenuse it is bigger than any side, because it had de biggest angel 90 degrees
+(xMathOly)What are we gonna use easily table with how many numbers? (Not de most complex one KINDA ABOUT DE WAR WININING YEAR))+)45 degrees are enough, even some formulas possible  
+(xMathOly)Why 45 is enough my thoughts(Calculator) may be practically full table more usefull im not sure about de memory process?)+) Because 30 kinda opposite to de 60 kinda de other part might be calculater
+(xMathOly)Why is it gonna be so easy to use de angles any variables?)+) De reason is de simple system of de values
+(xMathOly)Previous about de system might be golden golden golden golden golden why(Kinda lots of angles to watch)Interesting thought?)+) It might be golden because de simplicity opens de variety HM im not sure
+(xWebSiteDevelopment)What is de google Firebase? (Might be golden golden golden golden golden) What kinda of de experience(There is a team in cs:go with a parameter 9?)+) It is about de Cloud
+(xWebSiteDevelopment)How do we start kinda deleting what? (Part inside de top)+) Inside de harder in de App.js also logo was deleted at de start
+(xWebSiteDevelopment)Crazy kinda idea about de website to make (Might be very very very very very golden) it SMALLER why(Juli's <3 back part smaller bigger smaller bigger rates of de sex)?)+) To read all de things inside 1 line, make it like de study lvl HM
+(xWebSiteDevelopment)How to implement previous idea (Design off Kinda Chemical reduction)+) Need de data grabb or smth to translate de site into de sentence! 
+(xWebSiteDevelopment)What is helping me i did notice while typing de text into de pattern(Kinda another lvl explanation i need)?)+)Explanation to myself of de things going on
+(xWebSiteDevelopment)Is it hard to connect React to de Google great app? How?(1 function))+)Simply put de info into de function firebase initializeApp parenthesis curly bracers
+(xWebSiteDevelopment)About de logic behind de Sign in and Chat (Only possible ways)+) Simply sign in or chat screens not a big of de variety
+(xWebSiteDevelopment)((May be 2 stories is better than 1 (Probably not got some other points of view too) - insta another point of view + some rules for de hardest programms need de boost) I feel dat is also very golden golden golden golden golden golden golden golden) What else is de cool in de not de human lang (Not like in de patterns i do use A4 for it right now) may be it is possible to unite previous re-explanation with dat one(Kinda strange symbols)+)It is about de coding de pattern with my own words not de words of de another brain!
+(xWebSiteDevelopment)(Seems what is de most powerfull thingy for any programmer-scienceworker e.t.c(Kinda head-spirit-box)?)+)My Own lang re-explanation
+(xWebSiteDevelopment)Is it possible to return buttons straight in de containers of de react(How?)?)+)Simply use de return and not even quotation marks
+(xWebSiteDevelopment)What are de spaces for another point of view in de Frameworks(Lovely part starts with de L, short gonna love it a lot, kinda Github model)?)+) It is for de layers
+(xWebSiteDevelopment)How did we use de provider state of de Google?)+)It did provide us de Authentification
+(xChemistryOlympics)Fat molecules picture how does it look (cis one)+) It looks like de C (ofc de carbon) in de center H(hydrogen) on de connections
+(xChemistryOlympics)C C C C C H H H H H 2 2 2 2 2 O O O O O H H H H H What is it main part of what?)+)It is about de sugar kinda OH are de parts too and de HO
+(xChemistryOlympics)What acid do we call de sugar acid?(Kinda Gluk at de start))+)Glyceric acid
+(xChemistryOlympics)About de Carbon are de structures of it do a lot of different pictures same as de Hydrogen?What forms are possible)+)It says a lot of forms possible even different metals
+(xChemistryOlympics)Diamond what dat element is about in de Carbon value?Why is it created so good?(Kinda shape of de graph))+)De visual stance of de diamond is kinda full without de cuts Frustum. It is de strongest modification next point say why? 
+(xChemistryOlympics)Dat modification is de strongest why is it very strong?)+) De atoms gather up around de each other it means all de C atoms
+(xChemistryOlympics)What math trick probably gonna be used here too (About de 1 of de million)?)+) We do find 1 difference of de million thingys and we may delete same or contrast out to somewhere (Power rule proof do you remember?) i think dat trick is very strong
+(xChemistryOlympics)GOLDEN GOLDEN GOLDEN GOLDEN GOLDEN Care with de battery under de legs?(Kinda sleep))+)Seems it may make you to sleep! Grounding up is de best may be
+(xChemistryOlympics)GOLDEN GOLDEN GOLDEN GOLDEN GOLDEN Care with de battery under de legs?(Kinda sleep))+)Seems it may make you to sleep! Grounding up is de best may be
+(xChemistryOlympics)GOLDEN GOLDEN GOLDEN GOLDEN GOLDEN Care with de battery under de legs?(Kinda sleep))+)Seems it may make you to sleep! Grounding up is de best may be
+(xChemistryOlympics)What de number of 4 free elements do mean for example in de Carbon?)+) 4 other elements gonna connect with it pretty fast, because it is so light i guess! (Hydrogen, Oxygen, Phosphorus, Nitrogen for example)
+(xChemistryOlympics)What is gonna be very fast if you do not sin(Kinda change of de situation)?)+)Not sin insta grabbing, natural direct god power (Dog feels stronger cuz it is her present not sure at all carefull with dat knowledge)
+(xChemistryOlympics)Every time when we do watch de picture of de body do what (Kinda any complex staff possible)?)+)Do de pray against de human sins 
+(xChemistryOlympics)Ololoid what is it? Properies are kinda semiconduct not de metal conduct and not non-metal (Meta data))+)Dat is de metalloid , Like de Silicon
+(xChemistryOlympics)Where do we make many reactions in de robot 1 by 1 (On our modification)?)+)Organic synthesis
+(xChemistryOlympics)Easy counter to Egor what is it(Kinda closer to de mother Real-Love No Sin?)+) Touching de love with my mom touch lovers!
+(xChemistryOlympics)Olovo basically what is it(Wow's ore 2nd-3rd area?)+) De Tin Ore
 
 
 
-
+We are de pieces of de universe logic, small pieces de thingy (there is de video in de channel new one about de math)
+Next hour chemistry
 (Reading dis points practise gonna be good good cuz million of points do fly around 100% of de time)
 
 
-How to make it simply NON STOP LEARNING golden golden golden golden! (Kinda library mode)
+
+3rd BLOCK SMTH to cover de helm
+NEW AREA DESKTOP INSTALLED IS BETTER MAY BE (DEFAULT ONE)
+(mb small amount not sure more water try)Battery makes me sleep PROBABLY YES!!!!!! + bad feelings (Not sure mb charging a bit) 
+Battery makes me sleep PROBABLY YES!!!!!! + bad feelings (Not sure mb charging a bit)
+Battery makes me sleep PROBABLY YES!!!!!! + bad feelings (Not sure mb charging a bit)
+Battery makes me sleep PROBABLY YES!!!!!! + bad feelings (Not sure mb charging a bit)
+How to make it simply NON STOP LEARNING golden golden golden golden! (in de practical double Web-site-development-hours) (Kinda library mode)
 Physically approved it is better 1024 screen, eyes moves around
-Golden about de Memory A4 list
+Golden about de Memory A4 list (points not to forget)
 SWITCHER TO 4X AND DONT FORGET TO SWITCH BACK!!!!!
 3D helm new position (eyes + head membrance move, not like de pic wearing it)
 Sit down after de sleep - bed is not working (Slow down mind a bit day receive smth about de tiredness)
@@ -1171,10 +1221,23 @@ Programming lang i did finish on de llc installed point
 
 (END OF DE SENTENCE mb my body burning cuz of if **HEALTH**) Dog or cat urine smells sharply of ammonia, which is an irritant to the lungs. In the case of large amounts of urine, your lungs could feel like they are burning. Inhalation of large quantities of ammonia causes immediate burning of the throat, respiratory tract and nose.
 
+(xChemistryOlympics) https://www.youtube.com/watch?v=YWl4KHsUxuw Practical no sin pause hours, Oxidation redox
+(xWebSiteDevelopment1)Continue with de React 
+(xHalfMathxHalphPhyHour)(Easy with de big common not dangerous things) We are doing practical home work seems working great, later new points in dis hour
+(xWebSiteDevelopment1)
+
+(xPhysicsOlympics)Continue with not de hardest tasks
+(xMathOly)Continue to de trigonometry formulating de degree statements
+(xAlgorithms)Continue with de Stack solution for de Parenthesis matching pattern
+(xWebSiteDevelopment1)Continue with de react (CHAT UP)
+(xWebSiteDevelopment2)Continue with de react find new problems! (CHAT UP)
 
 (xPhysicsOlympics)Ye dat is a good progress from year 0 to de examinations, keep it up and biggest exercises are coming close!
 (xAlgorithms)Try to understand de first first-standart cycle and make it ourselves later on, which one was modified so many times
 Stress-test for de physics check of de monitor
+(xMathOly)
+(xAlgorithms)Stack problem trying to find de solution
+
 
 (x3DengineDevelopment)Not sure how de matrix move functions gonna work put de value of de 4th dimension to somewhere multiplication? Next day first problem (1:30 mins total coding in de headset human-size monitor tommorow)
 9:34
