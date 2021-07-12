@@ -41,7 +41,7 @@ function deleteTooMuchSpacesAndStaffSlashS($deleteSpacesText)
     
     $array = [1, "3"=> true];
     //A bit longer timebreak right now
-    return preg_replace("/[!]{2,200}/", "Time break time break Time break time break Time break time break time break time break time break Time break time break time break time break time break Time break time break time break time break time break Time break time break time break time break time break Time break time break time break ", $deleteSpacesText);
+    return preg_replace("/\)\+\)/", "Time break time break Time break time break Time break time break time break time break time break Time break time break time break time break time break Time break time break time break time break time break Time break time break time break time break time break Time break time break time break ", $deleteSpacesText);
     
     
     //return preg_replace("/[А-Яа-я]/", "", $deleteSpacesText);
