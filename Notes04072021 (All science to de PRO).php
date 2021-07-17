@@ -271,18 +271,76 @@ Day31.(After de War-addition defence God's Sword)
 (xPhtsicsTop)How do we measure de count values of de vibration?(Germat Scientist)(How do we count dat?))+)Herts. We do count amount per 1 second
 (xPhtsicsTop)What about de frequency?(Kinda multiply with de 2 magic numbers 360 degrees))+)It is about de double and de P P P P P and de vibration
 
+Day32.(Real-life finding solutions, smart guys not so smart for de real business kinda first point why)
+(VERY GOLDEN POINT BELOW VERY GOLDEN POINT BELOW VERY GOLDEN POINT BELOW VERY GOLDEN POINT BELOW VERY GOLDEN POINT BELOW might be few )
+(xPhtsicsTop)(Another very golden might be what?(Balance point of de head GOLDEN HEAD)What do i do?)+)Im not pressuring de head too much BALANCE POINT GOOD WORK
+(xRealProgramming)(Golden golden golden golden golden Professor recommended ofc higher lvl)+)Self-thinking should solve a lot of de problems
+(xRealProgramming)Point of de error human no see?(Kinda real-life lvl of de mind-state current))+)It is about de all de angels and all de points of view possible for de non-sin creation
+(xRealProgramming)What is it possible to make about de sin war - win? (Do not sin ofc)(Speed and de quality of life Creatorr))+) Every life structure quadra-penta higher lvl of de development and de defence and de mobility too
+(xRealProgramming)So our work for de war gonna be enough(Other sinners gonna kill anyway nothing may stop dem)?)+)It is about de no sin power anywhere anyway for de saving i don't know
+(xRealProgramming)What is de mistake i do often do about de Blank mind?(Kinda it is about de timing of de blank mind idea))+)I do try to watch de empty like it is full wrong TIMING another way it works
+(xPhysicsTop)What may it look like in de slow thinking not de practical main thinking right now(Frutella)+) Mix of de formulas, formulas imagination lvl may be coming
+(xPhysicsTop)So what are de advantages incoming for de Slow Thinking?(Kinda about de points)+) Art points of views
+https://www.fxyz.ru/формулы_по_физике/механика/статика/простые_машины/рычаг/
+(xPhtsicsTop)How do we call de cool thingy Physics do love use in de building industry?(Kinda 2 parts + strength))+)It is about de lever arm
+(xPhtsicsTop)What is de main point in de lever arm?(Kinda not stable position))+)Rotation, turning around point
+(xPhtsicsTop)Double arm lever principle how does it work?(Power making where?))+)Lower power we do need in de longer distance thingy
+(xPhtsicsTop)Solo arm lever principles how does it work? (Kinda 2 sides)+)Pressing points possible to de top of or to de bot whatever we do like pressing de long side gonna give de opposite double or may be triple power or may be more IDK
+(xPhtsicsTop)What is de formula about it about de arm levers(Kinda very simple)?)+)Power One Multiplied by de Length of de first part to de rotation point equals to de power two multiplied by de length of de second part
+(xPhtsicsTop)What rotation point does if de angle equals to 180 degrees?(Like de flow of de electrons))+)It do transfer de energy like de flow through de wholeeee length (formula still works) like de river!
+(xPhtsicsTop)Friction power of de not moving objects what is it?(Kinda de external))+)De power pushing it which is making de balance equals to de friction power
+(xPhtsicsTop)What friction may make? (about de chemistry work kinda)+) It may make de heat
+(xPhtsicsTop)Possible very practical solution to find de answer for a hard task?(Kinda make de think we do like KINDA in de new practical thinking not sure))+)Make de another small task point with de View you did find out
+(xPhtsicsTop)Friction don't forget about what?(Another side number of objects))+)There are 2 objects so de friction of de both surfaces is important!
+(xPhtsicsTop)Friction very general talking simple explanation (I like to do something song)+) Simply coefficient and de simple force multiplied
+
+Day33(of de grade 7 complex study start).(Started code-wars + physics addition to de slow thinking)
+(xSins)About de god's solution?Why is it hiden(Sin mistakes))+)Cuz we may make de sin mistakes so easily + Faith check for de 7 deadly sins + Feel de GOD INSIDE helping ofc!
+(xSins)Kinda feeling about de head? (Position trick not sure)+)Not moving too much right now to break de insides not sure not sure at all
+(xPhtsicsTop)What do we build inside de angles for de light's prelomlenie?(Kinda Callibri))+)We do build de line perpendecular in de middle 
+(xPhtsicsTop)What angles do we use for de finding de values right (Face each other 1 broken 1 open)+) angle change broken to de bottom, angle start open to de top 
+(xPhtsicsTop)How do pic looks (Kinda de cup for de Wine)+)Picture of de smth was fun to see Callibri and de Wine cup
+(xPhtsicsTop)Slow-thinking modified kinda bonus + Great association what are we gonna see now?Assosiative aswell create in de head more exp Golden golden golden golden)+)Creating pics right on de screen associations or de things around
+(xRealProgramming)What about de codewars first exercises Null mistake what does it mean?(Kinda about de syntax of de task))+)We do need to return de string not de echo instanly 
+(xRealProgramming)What about de solution recommendations - first thingy i've seen (Professor's beauty of de math code)+) It is easier to read and view AND CREATE IN DE END OF ALL OF IT
+(xRealProgramming)After de completion of de Kata what is important to do(Kinda to become better)?)+)Best solutions 5-10 mins to watch
+(xPhtsicsTop)So de callibri point about what formula (kinda change de fraction from de horde and de sin top to bottom)+) Refraction, sin starting value to de sin of de changed light value
+(xTrickOfDeTopProgrammer)Might be golden golden golden golden might be. Kinda less what (About de reality of de folders and life? In coding might be critical hit YOUTUBER showed)+) It is about de amount of de things around minimalistic in de coding might be critical
+(xRealProgramming)How did we override de split fucntion (All de things inside double "char" for example it was de block)+)We did write de return than square brackets, inside of de brackets char for char in argument
+(xRealProgramming)Golden Golden Golden Golden Golden Golden Easy way to make de patterns?(PracticalWhat))+)Practical Folder Simply Use Dat (easy to copy files there too)
+(xRealProgramming)Kinda golden Kinda pythons flow how do we make de string lowerCase or upperCase(Kinda to de small points way determined to de Universe may be idk)?)+)Simply lower or upper method with de parenthesis
+(xPhtsicsTop)Kinda logical about de item without de speed moved with de spring for example?)+)It moves according to de accel environment giving to it (no speed kinda) recheck error
+(xRealProgramming)What was de error about with de Undefined key?(Kinda nothing works))+)It didn't exist => still worked BUT ERROR, we did call de not existing key NEXT POINT ABOUT IT
+(xRealProgramming)What main problem did we find about while working on de PHP iterations?)+)Plus one minus one might cause trouble
+(xRealProgramming)Syntax associations So we did use counting system with de arrays, string value and de container for what sUNSET (Dat sentence is kinda about de?)+) Too work with de numbers as de strings and put dem into de arrays back with de sUNSET of de not needed one, unset contains string value count
+(xRealProgramming)Golden Golden Golden golden golden golden debugging what is it about (WAU LIGHTNING DE PARTS)?)+)Simply hightlight de parts of de code to execute idk how to execute parts + parts separation
+(xRealProgramming)Some golden parts are randomly popping save dem where(Kinda time saving too, Golden Random)?)+) Into de browser folder
+(xRealProgramming)Don't forget to do what after de golden debugging?(House cleaning CAREFULLY mb gonna make de new folder))+)Clean de temp files in de end or any time, carefully delete de TEMP not de real ONE
+(xRealProgramming)Few words about de multiplication every digit programm (Array came born, basic String Java method, parse to num like in Java too dat lang competition)+)We did make de array with de Array lib and de function from, we did create de string out of de number with de toString() function and we did return it back with de parseInt of de string
+(xRealProgramming)Cool feature of de JS arrays string values?(Possible work like de not string like what))+)Like de numbers 
+(xRealProgramming)Another problem with de forEach now in de Java Script what is it?(Kinda unstoppable))+)Error are so cool giving de flexibility, here no way to STOP DE forEach only with de error
+(xRealProgramming)Error creation in de Java Script(Very easy kinda dictionary)?)+)Create de empty array and throw it lol double curly bracers try catch it any moment to escape de forEach not sure dat is de only way
+(xRealProgramming)Trick about working with de forEach not to break it?(Out of de forEach))+) Declare de true value out of de forEach and only de changer inside de forEach works for isogramWord (New word was about de include include)
+(xRealProgramming)Do not forget about what(Kinda Job where)+)  Yello in de codewars possibility later on with more lvls!
+(xRealProgramming)GOLDEN GOLDEN GOLDEN GOLDEN GOLDEN HEALTH AFTER DE ELECTRO-Hit SOLUTIION (kinda air fix)+) Mask for de hot air a bit of de cloths may be
+(xRealProgramming)Python methods to make int or another value of de value how do we fix them? (Kinda flexible change to make it work)+) We do override it
+(xRealProgramming)What folder do we play around while adding css images static folders?(Kinda top1 first))+)django-admin project creation folder 
+(xRealProgramming)Where did we set de path rules for de checkout button?)+)Main folder using settings.py it was called STATICFILES.DIR and we did impory os
+(xRealProgramming)Kinda modified folders. What is de main difference using dat settings file for de folders(3 diff kinda closing things circle a bit, kinda scissors (like de Cesars you may here de tone), and dat word i was scared about in Java, any html page got it?)+)We do use curly bracers, percent signs both sides too and de static word than de folder place! 
+(xRealProgramming)Not forget what about dat kind of de folder modification (At start 1 more word to de new syntax)+) same syntax load static
+(xRealProgramming)What meta tag is used for de mobile browsers (Kinda viveport)+) It is called viewport
+(xRealProgramming)What do we do by de associative memory?(Game online 24 hours))+)Plaing with de brain Jesus made us de great game for de brainy xD
+(xRealProgramming)What is de navbar?(Kinda navi much longer))+)Navigation menus 
+(xRealProgramming)Percent syntax and what else do we use to extend de menu of de main page?)+)We do use de extemd lol and de folder
+(xRealProgramming)Not sure how do we transfer de part of de navbar from de main page? (New syntax plus streamers do like and start end of de parts, kinda defence not de dodges)+) We do add block content endblock content under de h3 h3 h3 h3 navbar name in de body
 
 
-Day2(i guess)
-12.(PROBLEM)Coupon site got what around it(Trouble internet)?)+)A lot of de vids ADDS!!!!
-13.(JOB)When triple coming it is a bit easier, 120, 110 than go lower thingys explain mechanics a bit?)+) 120 110 100 90 (Kinda lowering)
-14.(JOB)We did quadra go from de lowest )+) Don't go Akum!!! Before 3 UP at least!!! May be go for 4!
-15.(JOB)What is de new cool start about de 2 boots?)+) (May be 3 later) (Not touching one kinda works WELL it seems May be rando,)
-16.(JOB)What to do today? Kinda very new (not)+) New character ofcourse
 
 
-
-
+Golden debugging incoming, golden memory up, golden smth else sorry do feel bad, don't forget about de golden random stack overflow possibly! Not sure about de last
+Dont forget chair to de top!Dont forget chair to de top!Dont forget chair to de top!Dont forget chair to de top!Dont forget chair to de top!Dont forget chair to de top!
+Try to finish in de 5 mins of de new hour (or 55 mins limit HMMM for de finishing move probly better)
+Head balance unique equillibrium small point should be easy not in de sin practise
 First double GOLDEN POINT might be in de chemistry list what is it?
 Real programming 2 monitors now
 Right preparation how? 
@@ -336,6 +394,22 @@ MOD.leftBulka - try to go through dat too not sure )-)
 MOD.safety (Another asset to close it on de 3rd side) )-) 
 MOD.Eyebrows and fixing de eyes both 1 by 1 (Kinda Membrance) )-)
 Moving to de eye left or right - balancing )-)
+
+
+
+
+(xPhtsicsTop)Got de great exercise in de balance head form not too much pressure
+
+
+
+
+
+
+
+
+
+
+
 
 Study active
 

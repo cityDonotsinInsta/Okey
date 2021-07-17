@@ -41,27 +41,66 @@ function deleteTooMuchSpacesAndStaffSlashS($deleteSpacesText)
     
     $array = [1, "3"=> true];
     //A bit longer timebreak right now
-    return preg_replace("/\)\+\)/", "Time break time break Time break time break Time break time break time break time break time break Time break time break time break time break time break Time break time break time break time break time break Time break time break time break time break time break Time break time break time break ", $deleteSpacesText);
     
+
+    return preg_replace("/\)\-\)/", "Time break time break Time break time break Time break time break time break time break time break Time break time break time break time break time break Time break time break  ", $deleteSpacesText);
+    //return preg_replace("/\^\/\/w\*\r\$/", "", $deleteSpacesText);
     
+    //Normal amount of de breaks may be a big huge!!!
+    //Time break time break Time break time break Time break time break time break time break time break Time break time break time break time break time break Time break time break time break time break time break Time break time break time break time break time break Time break time break time break 
+
     //return preg_replace("/[А-Яа-я]/", "", $deleteSpacesText);
     //return preg_replace("/\^\/\/w\*\r\$/", "", $deleteSpacesText);
+    //Погружение в «ретро» продолжалось. В одном из залов нашего дома была организована ещё одна выставка – сотрудники и  наши друзья  знакомили ребят с фотоаппаратами и кинокамерами, радиоприёмниками, магнитофонами старых моделей, проигрывателями и пластинками. Особый восторг вызвала демонстрация работы уникального фильмоскопа (диапроектора) и диафильмов, а самым удивительным для всех экспонатом нашего «домашнего» погружения стал ещё довоенный патефон.
+}
+function deleteTooMuchSpacesAndStaffSlashSCopy($deleteSpacesText)
+{
+    
+    $array = [1, "3"=> true];
+    //A bit longer timebreak right now
+    
+
+    return preg_replace("/\)\+\)/", "Time break time break Time break time break Time break time break time break time break time break Time break time break time break time break time break Time break time break  ", $deleteSpacesText);
+    //return preg_replace("/\^\/\/w\*\r\$/", "", $deleteSpacesText);
+    
+    //Normal amount of de breaks may be a big huge!!!
+    //Time break time break Time break time break Time break time break time break time break time break Time break time break time break time break time break Time break time break time break time break time break Time break time break time break time break time break Time break time break time break 
+
+    //return preg_replace("/[А-Яа-я]/", "", $deleteSpacesText);
+    //return preg_replace("/\^\/\/w\*\r\$/", "", $deleteSpacesText);
+    //Погружение в «ретро» продолжалось. В одном из залов нашего дома была организована ещё одна выставка – сотрудники и  наши друзья  знакомили ребят с фотоаппаратами и кинокамерами, радиоприёмниками, магнитофонами старых моделей, проигрывателями и пластинками. Особый восторг вызвала демонстрация работы уникального фильмоскопа (диапроектора) и диафильмов, а самым удивительным для всех экспонатом нашего «домашнего» погружения стал ещё довоенный патефон.
 }
 
-function changeFileInside($fileName1, $fileName2)
+function changeFileInside($fileName1, $fileName2, $fileName3)
 {
     $file1 = fopen($fileName1, "r");
-    $file2 = fopen($fileName2, "w");
+    $file2 = fopen($fileName2, "a+");
+    $file3 = fopen($fileName3, "a+");
 
     while(! feof($file1)) {
       
      fwrite($file2, deleteTooMuchSpacesAndStaffSlashS(fgets($file1)));
+
+     echo "it is going on";
       
     }
 
+    fclose($file2);
+    $file2 = fopen($fileName2, "a+");
+
+    while(! feof($file2)) {
+
+        echo "it is going on2222";
+      
+        fwrite($file3, deleteTooMuchSpacesAndStaffSlashSCopy(fgets($file2)));
+         
+       }
+
     fclose($file1);
     fclose($file2);
+    fclose($file3);
 
+       /*
     $file3 = fopen($fileName2, "r");
 
     while(! feof($file3)) {
@@ -71,14 +110,14 @@ function changeFileInside($fileName1, $fileName2)
        }
 
     fclose($file3);
-
+*/
 }
 
 
 //echo deleteTooMuchSpacesAndStaffSlashS("Okey 	Not Okey		Okey	 2");
 
 //(2)
-changeFileInside("./text1.txt","./text2.txt");
+changeFileInside("NotesPalace/text1.txt","NotesPalace/text2.txt","NotesPalace/text3.txt" );
 
 textMultiplier("TimeBreak", 17)
 
@@ -96,3 +135,5 @@ textMultiplier("TimeBreak", 17)
 </body>
 <scripts></scripts>
 </html>
+
+
