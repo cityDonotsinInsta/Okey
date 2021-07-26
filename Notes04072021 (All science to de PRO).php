@@ -333,10 +333,255 @@ Day33(of de grade 7 complex study start).(Started code-wars + physics addition t
 (xRealProgramming)What is de navbar?(Kinda navi much longer))+)Navigation menus 
 (xRealProgramming)Percent syntax and what else do we use to extend de menu of de main page?)+)We do use de extemd lol and de folder
 (xRealProgramming)Not sure how do we transfer de part of de navbar from de main page? (New syntax plus streamers do like and start end of de parts, kinda defence not de dodges)+) We do add block content endblock content under de h3 h3 h3 h3 navbar name in de body
+(xPhysicsTop)What is everywhere around in de use like de friction?(Kinda electrons))+)It is about de electricity
+(xPhysicsTop)Mistake about de active thinking (Kinda repeat focus what)?)+)Focus de blank mind
+(xPhysicsTop)What do electricity trying to avoid? (Kinda creator of de electro-ways)+)Electricity trying to go de ways of de lower-resistance
+(xPhysicsTop)Formula of de Zheniyaaaaaaa Zhenya (BDO play divided by de positive or negative it might be)+) For de Napryazhenie we do divide word with de charge (small q q q q q)
+(xPhysicsTop)De amount of de heat work how to determine BIG Q? (Kinda overall and de single division by 2)+) It is about de U U U U U and de small q q q q q
+(xPhysicsTop)NapryaZheniya formula another one lots of formulas here (Kinda battery multy one stop, divided with de 2 stops or more i guess)+)We do multiply battey energy E E E E E (small) with de resistance and divide it with de summ of de battery resistance and de active resistane
+(xPhysicsTop)Do de things got de resistance inside why (recheck kinda save de day)+) To save de real objects out of de bigger vols a bit and may be to make it stable
+(xPhysicsTop)Trick about de capacitors (Savers of de energy) Kinda computing)+) We may play with dem to do some additional logic when we do want it i guess, on off mode lighting
+(xPhysicsTop)Do capacitors save de big machines how?)+) Energy might be very unstable so there are de boxes to save de COOL EXPENSIVE THINGS when de electricity pulled aways i guess giving some power to it, or not enough before de stop like de PC stop i guess
+(xPhysicsTop)About de sizes of de area length of de parts and de distance between them (About de capacitors)+)More de distance - less de volume of it, More de length of de 2 parts - bigger de area bigger de volume 
+
+Day33(Python, Django, CSS, HTML, Javascript, PHP, PostgreSQL lets go de stack!)
+(xPracticalLangs)How do we return de string in de PostgreSQL?(Kinda popular in de langs))+)Function
+(xPracticalLangs)Important word i did forget about de connection to de fuction and de variables in de string (Interpol kinda)+)Interpolation
+(xPracticalLangs)How do we do de interpolation in de Python?(Kinda php js witouht what and do not forget f symbol))+)Without de dollar symbol curly brackets 
+(xPracticalLangs)Oh ofc so many sins in dat study pray how?)+) PRAY MORE!!!
+(xPracticalLangs)Did it without wat code run of de python?(Kinda boss))+)Without de administration mode 
+(xPracticalLangs)First golden catch about de python practical usage(Optimization American building 0 1 plays for de SOLUTIONS AND CHANGES ON DE FACTORY)+)We may use Conditional statements in de math operations to change de serious value!
+(xPracticalLangs)What do we need to learn about to make de solutions short?(Kinda block in de ruby or js blocks))+)Lambda
+(xPracticalLangs)Explanation of de strange double colon and minus one alien sign what is it?)+) It is about de start stop and de step in de empty values defaults are end start reverse thing
+(xPracticalLangs)Dat block with de x x x x x for x x x x x in something how to modify it to make it short?(Same what i did long kinda efficiency may be))+)Put int function right into dat block!
+(xPracticalLangs)Separator and de cool string maker out of de ARRAY in de Python (Kinda ppz doing it in de Fortnite parties for example)+) Ticks plus de dot join parenthesis arrays
+(xPracticalLangs)How do we modify dat cool modification block which is working for de lib func too(Deeper than int before)?)+)Define function for de 1 tich 1 value to pass it and to work with it
+(xPracticalLangs)Might be super top 1 super top 1 super top 1 super top 1 super top 1 golden golden golden golden point (Thinking process about)+)De big points always not de small goddies MAY BE DE CRITICAL MISTAKE!
+(xPracticalLangs)How to make it better like de shorter code trick? (Kinda factorization where?)+)Especially cycle parts gonna look beautifull
+(xPracticalLangs)What was de practical mistake kinda about de Zero? In de first new cycle binary exercies(Forgot what?))+)I did a nice tests on de each stage and found dat i forgot to make de value 0 and it did pass to de much higher values
+(xPracticalLangs)How did i make my first good debugging codewars?(Kinda watch your every step))+)Each cycle value control from de start to finish kinda gonna be perfect later on! 
+
+Day34(Brain-smallThingy-focus Full 24 hours of coding PROBLEM OF DE MOVES AND BRAIN AND HANDS CHECK with de water active and small moves and de full air and de full gaming bug slowmoves trying to delete)
+(xPracticalLangs)Possibility about de Python to make what in de 3 months don't think about big points?)+) De teaching of de python php js sql or django (Big are empty) Do not see big!
+GOLDEN GOLDEN GOLDEN GOLDEN GOLDEN GOLDEN GOLDEN GOLDEN GOLDEN pack below pack below pack below pack below pack below 
+(xPracticalLangs)What is so bad in de langs time consuming(Your name)?)+)It is about de function names 
+(xPracticalLangs)Solution about de names in de Langs (What to do?)+) Nothing do de right comment pick any methods name
+(xPracticalLangs)How are we gonna write programms now 4kyu and above?(Kinda concept about de math physics chemistry))+)Small easy blocks
+(xPracticalLangs)New golden golden golden golden golden plan about de programms saving a lot of time how?(Problem-solving focus paper + head addition good for de layers))+)Comments first all de parts 0 code.(First part Plan layer kinda) (Second part kinda coding C++ header or Java interfaces simply Real abstraction) Function any names out of de comment take word simply any (possible to modify later) (Third part is Function completion one by 1 )
+(xPracticalLangs)Golden golden golden golden about de thinking in de real-life objects area?(Type de code where Augumented Reality)+) Right on de real-life graphic card 
+(xPracticalLangs)Three types of de comment use wise Python! (Red, Blue, Gray)+) NOTE red simply big letters, triple single quotes both sides and de cage sign
+(xPracticalLangs)Trick to make beautifull section Python kinda double Cage what is it about)+)And press enter between
+GOLDEN GOLDEN GOLDEN GOLDEN GOLDEN GOLDEN GOLDEN GOLDEN GOLDEN pack below pack below pack before before before points finished
+(xPracticalLangs)Why do they put PASS in de empty Python function (Kinda sign like de JS underscore private vars not sure dat it is about de debugging, tried to stop function with dat it didn't stop it)+) It says dat it is okey - dat function does nothing We are gonna use pass for de Pattern plan 
+(xPracticalLangs)Fast work with de python code 1 button for de indentation easy like de 1-tap)+)tab button
+(xPracticalLangs)Care it is hidden now for de syntax check things in de Google (Helicopter kinda got it website)+) Stack Overflow
+(xPracticalLangs)What to use while coding in head and coding in de screens? (Kinda purple)+) Purple light contrast 3D text in de head to see it kinda
+(xPracticalLangs)Same as de php globals declaration how?)+)Kinda one time global at start of de function with de names and these variables are marked as globals
+(xPracticalLangs)Good point about de codewars?(Kinda Stamina))+)I do not need codeReading skills now reading a lot!
+(xPracticalLangs)Care with de reverse very dangerous? (Why is that so?))+)It goes and modifies de original array
+(xPracticalLangs)How to solve de problem of de lists?(Pasta kinda))+)Copy pasta function
+(xPracticalLangs)How to debug very precise might be? (Kinda catching de last things before de error))+)Line before de error line
+(xPracticalLangs)TRY GOLDEN GOLDEN GOLDEN GOLDEN GOLDEN GOLDEN GOLDEN Might be de golden solution about de practise what is it(Kinda small is big big biggy)?)+)It is about de not method name usage, but de numbersForDeMethods in de BRAIN
+(xPracticalLangs)Not always try to balance with de thinking color eye engine not sure now Might be golden golden golden golden golden Code possibilities how to work with now?(Got for de points why?))+)Kinda hides many small points inside de strange letters - possibly learning insta UNKNOWN im not sure
+(xPracticalLangs)MM our coding free model gonna be where(Kinda buggy?)+)In de debugging process deleting adding prints
+(xPracticalLangs)It is very easy range loop Python top to bottom bottom to top how?)+) Add de number in de range 2nd parameter
+(xPracticalLangs)What was de mistake about de globals(mark on it)?)+)nonlocal 
+(xPracticalLangs)What made de biggest difference while creating and de flexibility? (Loving it works here too)+) Make smaller parts smaller smaller smaller
+(xPracticalLangs)Where do we put red NOTE(Kinda DRY)?)+)Only in de important things
+(xPracticalLangs)Modification of de int for int in array creator what is it(Kinda check for NO)?)+) It is about de if if if if if condition check in de end of dat in de square brackets 
+(xPracticalLangs)What was de strange part about de Python pop(Not like in de all usual langs?)+) Kinda divided 1 square bracket and de another one. Insta reference was strange too compare to de other langes
+
+Day35(Day of Pray - Practical moves gonna be easier than synchro analytical thinking NOT SURE HOW TO CREATE IT TO WORK NON-STOP)
+(xLife Changer)About de screen very important what(Natural eyes scale?)+)Big monitor look like it is de monitor from de 3D HMD NATURAL PARTS DIVIDED WITH (max efficiency enemies gonna play around it)
+(xLife Changer)Practical thinking A4 in de head gonna come handy is it What addition we may bring to it?)+)2D very handy staff like de Lost Ark 
+(xLife Changer Making de sword of de God)What about de main monitor main thought? (WAY TO HUGE)+) Dat is way to huge for de REAL-MIND EMERGEN - BREAK THINKING. 
+(xLife Changer)About de home problem there is de saying about de prophecy guys what is it?)+)Changing home gonna return my home to my heart
+()Bot helper - last stage of de calculations
+What is gonna open de whole synchro world possibly ? Stamina exercises
+Hidden about de Stamina what is it possible EPIC GOLDEN? (Hidden faster reading)
+3R
+()Special thing to do - make de daily EXERCISES REQUIRED PART (brain train parts all structured like de professor said)
+()Body changing hard not going bad when trying to controll it
+()Reality like de code what is gonna help so much GOLDEN GOLDEN GOLDEN GOLDEN GOLDEN GOLDEN reality?(Kinda small friend)+) Dat is de A4 PAPER SHOULD WORK HERE TOO
+
+Day35(xLife).(A lot of new after de day of de pray) Let dat day be 36 too, too much changes
+(xLife)Golden very balanced mind possible i think (Like de sword of de Witcher coming to de god's sword) Try not to lose double-second where(Max 1 second for de thought come out)?)+)While doing de job
+(xLife)Golden Memory lvl probably!!! Previous point try of de practical train how(Brain stopage?)+)Small period of time stopage (Max 3 sec now do not try full picture try what? Small point) 
+(xLife)Another brain correction how? Practical method(After de brain soluition do what))+)After de brain solution ALWAYS BEST FRIEND A4 CHECK!!!!
+(xLife)So try to use what about de brain? (What may work and do train us hard) ABOUT EVERYTHING IN DE REAL-LIFE PROBABLY NOT SIN MECHS+)Any thinking memorization up do not worry to hard right now 
+(xLife)Increase de brain pressure how first practical moment in de physics SHOULD WORK with de realx moment? (Number)+)Number of exercises goes to 10
+(xLife)Possible help in de hard exercise moments what is it?(Mouth))+)It is about de talking de exercise solution maker
+(xLife)Kinda Golden! What to think about in de new tasks examinations good thingy(Kinda multi?)+)I do love multitasking questions 2D they do look cool to implement too!
+(xSinRealLife)Sin not thinking new membrance brain health incoming what is it?)+)It kidna equals to lazy sin i think let's try it out!
+(xLife)De final thing de Stamina keyboard gives to us what is it(3rd one about de thoughts)?)+)
+(xLife)What to do with be break moments (Kinda balance change)+) Try to put all de plan onto de break moment
+(xLife)Refocus stamina to de understanding part! (Or what else?)+) Do physics head Stamina is golden anyway 1 hour should make THOUGH PROCESS TWICE FASTER (Add TO CRUCIAL)
+(xLife)What seems happening to de brain mechs?(Slower implementation about de sins))+)Becomes faster usage less energy lose not sure
+(xLife)Idea for de implementation Stamina each point?(Kinda words)+) Random words in de bracets or some cool staff repetitive may be Or Grab random text in de internet pull it into de words
+(xLife)Why EGE lessons more cool dan i thought(For a pretty while about de thought difference)?+) they do have some additional tricks to fool you
+(xLife)What to care about in de exercises of de Radius and de Surface?(Kinda tricky spot))+)Radius under de surface might plus de radius of de object as de distance!
+(xLife)How do we explain friction in de general natural values? (Power and de additional value coefficient (Ofc all de powers same way affect de friction))+) Simply multiply de coefficient and de natural power (Friction power do not engage with de aditional powers HMMM)
+(xPhysics)Are there also de tricks with de not using de variables of de exercise to make it harder exercise 3 plus?(Oh so much money to make a good science practise))+)Yes i do love it!!! Kinda tricks think more process so much money they do put it! 
+(xPhysics)Friction might haven't be used why de 2nd power thingy?(Kinda didn't touch de friction hmmm not sure at all))+)Parallel to de surface or 1 part completed de friction other layer do not feel it
+(xRealProgrammingCoding)(Limit to code on de working hour is what?(Kinda mins)+)It is about de 5 mins to implement de idea
+(xRealProgrammingCoding)So much might be done with what (Kinda limiting de small thingys you do makessss)+) Possibility to make tons of more small thingys!!!
+(xRealProgrammingCoding)New rules of de implementation plans how?(Kinda))+)Set de plan anyways if not having de right implementation before de optimization yet
+(xRealProgrammingCoding)How do we start to solve de distance air-planes, car-travelling cycle problem what is gonna help a lot 2 things to start with what are they? (Kinda Perfection of de bible may be, And de math COOL COOL many numbers thing)+) First it is gonna be de Order right every numberr second thing we do search in de ranges!
+(xRealProgrammingCoding)First 3kyu brain experience kinda small actions small points what is it about?(Kinda not focusing what))+)Don't try to find big fast solutions small solutions dat is what gonna make it fast problem solving
+(xRealProgrammingCoding)How are we gonna create de lift idea?(About de not big)+)Small points more more functions gonna make de possibility to create more functionality
+(x3DvirtualHelmWay)How do folder direction work in de Scripting of de Witcher(Kinda mirror of what)?)+)Of de another scrtipting folder inside ws extension
+(xRealWebSiteCreation)What do we need to run our lovely php on de Django?(Kinda helicopter))+)Apache server, deployment and settings through de w s g w s g w s g in de bookmark
+(xSin)Might be super golden golden golden golden golden golden golden golden. Oh de body of de Luci got de do i have de idea why is it so fast why ive seen it have i seen de copy or not (Weapon against de Luci is it?)?(Kinda too fast))+)No i do not
+(xRealWebSiteCreation)Where are de static files lvl compare to de app template?(Like in de Bitrix))+)Kinda de highest lvl!
+(xRealWebSiteCreation)Why de folder setUp to de percents is so very usefull?(Not losing de parts)+) We won't lose any parts connecting to de BASE_DIR on de highest lvl for example do not forget to load
+(xRealWebSiteCreation)Random events in de multi-mix what is de probability?(Using de sign)+) It is about de multiplication of de each probability!!
+(xRealWebSiteCreation)What is de advantage of de examination ru?(Every small piece)+) Gonna be touched many different things to check yourself
+(xLife)Stamina gonna make it possible what about is it?(Kinda thought slowmore elemintation))+)Ye while writing reading creating de thoughts too!!!! MIXING THOUGHTS POSSIBILITY
+(xRealWebSiteCreation)Kinda tok but 1 more letter and kinda turkey)+)Torque it is de Krutyshii moment to start de car for example 
+(xMathTop)Parallelepiped area with parallelepiped thingy out of it how do we count it?(Kinda balance))+)We do add de area of de small one at first all de sides - later on we do delete de overadded part! Hm interesting 
+(xMathTop)Rule of de poperechnii raspil easy simple (1 raspil adding how many pieces)?)+)1 raspil + 1 piece to existing 
+(xPhysicsTop)CenterSpeed accel formula simple one speed and dat value only)+)Speed * speed divided with de r r r r r
+(xPhysicsTop)When de work of de gravity equals to 0?(1 example))+)When de thingy didn't move on de Y axis for example, distance in de formula gonna be 0
+(xLife)New body moves straight  try try what? (Seems water efficient)+) Fast lining body balance control (All de body got many small parts OFF)
+(xPhysicsTop)Trick of de energies in de point? (It was about de vertical thingy)+)Position may change so much chech de position in de space to be precise!
+(xPhysicsTop)Potential energy direct dependency what is it?)+) It is about de Height, more height more potential energy
+(xPhysicsTop)What is de formula of de potential energy (Kinda 1 thing adding to de very popular formula)+) We adding gravity multiplied with de H H H H H
+(xPhysicsTop)Mendeleevs Formula (and another cool guy) to find de Temperature(Volume of de moles there P P P P P and de Konstant do not forget about de small letter Vanya V V V V V))+)Temp equals to de pressure V V V V divided with de big V V V V V and konstant also in de division state
+(xPhysicsTop and de Chemistry)p  p p p p p and delata V what is it(Kinda real job)?)+)It is about de Work done
+(xPhysicsTop and de Chemistry)Work A A A A A while Izobar increase or decrease of de gases formula plz (kinda huge there are boss masses)+)m divided by M Konst and multiplication to de Temp change
+(xChemistry) Ionical connection when do it appears(Very different electronical like who)?)+) Natrii and Phtor
+(xChemistry) Is carskaya vodka a good drink?(1 Life 1 try))+)Death drink old about de gold rastvoryat gold! 
+(xChemistry) What are we gonna learn new addition to de chemistry reading kinda better table(Programming langs got it kinda many values)+) It is about de LIST of de values pretty cool
+(xPhysicsTop)What is cool to do while doing synchro kinda probably not sure (Bigger thingys more small points)+) Bigger tasks and exercises creation in de head
+(xPhysicsTop)(Last day pray golden golden golden golden very) Made de audio - to reanalyze What do i need to do with de pics?(What lvl of de optimization is important?)+) It is about de possibility to view small points around it
+(xRealProgramming)(When problems should not happen in de Python programming(Kinda changing de value like de ball))+) When we do a lot of nice factorized functions playing with de value
+(xRealProgramming)(What may help to save time kinda visual? No colors)+) Array prininting of de particles different angles
+(xRealProgramming)(Golden golden golden golden kinda Less pressure of de comment position how?(Kinda a bit to de right))+)Move a bit to de right so method name and de comment do not stick!
+(xRealProgramming)(Mistake we did stop on while checking last 3 parts on de botton 3 multiplied by 3 boxes(Care reality to numbers and back mistake 1 number))+)We did miss 1 number with de ranges
+(xRealProgramming)(Simple check for de value in de list Python(How)+) dat in datList and colon dat is it
+(xSin)Might be very good points about de Devil or dat machine what is it?(Devil to huge))+)Might be super - puper golden - Devil too huge he do miss de small points a lot! Not sin guys gonna fight him strong!
+(x3DrealProgramming)Cool feature while coding something new, what is it?(About VScode opening NOT SMASHER)+) File opens in de new tab not smashing any folder setup!
+(x3DrealProgramming)How did we enable coding to de game right through de steam?(Kinda special thingy))+)Special activation file
+(x3DrealProgramming)How do we get de easier access to de files of de Witcher in de nice folders(CD project gave to use)?)+) ModKit files Uncooked might be some errors says it is fine (TO DE TEXTURES) access too!
+(x3DrealProgramming)Where we may learn making de Mods with de help of de ModKit (File)+)PDF student's guide
+(x3DrealProgramming)Golden files for work - creation of de scripts to de command line , line by line(Extension kinda mouse not a useual one)?)+)It is de batch files series with de bat extension
+(x3DrealProgramming)Where are de batch files gonna be most usefull?(Kinda installation of what))+)De real project saving it like de patterns! (On de job work some things)
+(x3DrealProgramming)What are we gonna do de important moment next day 3D modeling(Kinda image work)?)+)Exporting image file to play with it in de Editors!
+(xRealWebSiteDevelopment)How to solve de resources problems easy?(No 2 studios))+)Open de file in de project with de notes dat is it! 
+(xRealWebSiteDevelopment)What do we set inside de styles kida chain of de bootstrap(3 elements bigger to smaller kinda about de Mayweather last one, about de French friend another one)+) First on top is de row, 2nd is de column class and de box is de 3rd one
+(xRealWebSiteDevelopment)What it looks like in de Bootstrap pro styles?(Kinda i do love)+) Small points goes inside of de each other and make de beauty
+(xPhysicsTop)Where do de vector of de magnetic induction goes against de Tok values?(Kinda opening de Z space))+)It goes to de 3d dimension to us or de other way away from us if de toks work with de x axis we watching dem from top for example 
+(xPhysicsTop)Micro how much is dat?(Kinda family number))+)It is de minus six form of 10 th
+(xPhysicsTop)New letter E E E E E what is it in de electro-capacitor?(Kinda))+) Napryazhennost' polya v ploskom condensatore E E E E E equals U U U U U (electricity area value) divided by de d d d d d distance between de capacitor main 2 elements 
+(xPhysicsTop)What is de air capacitor(Kinda my pc got)?)+)Videocard take de heat away
+(xPhysicsTop)What is de charge value(Fixing de pressure)?)+) small q kinda concentrated U and de C capacity overall ofcourse
+(xPhysicsTop)How do we write de pogreshnost'?(Kinda double signed))+)Plus Minus and de uncertainty lvl 
+(xPhysicsTop)What is de strong thing always win kinda? (Helps to study need to grab dat lvl)+) Formulas got tons of de logic behind learning dem in a nice speed!
+(xPhysicsTop)Why de accel study also awesome now? (Tricky)+)Moves are tricky lots of brain image creation kinda
+(xMathTop)Science formulas learning kinda golden golden golden we do need what?(Kinda center))+)De central formulas most used!!! To explain any any any and to determine all de formula roots less steps!!!!
+(xMathTop)Night WAY MIGHT BE EPIC GOLDEN!!!!!!!!!! HOW?)+)PAPER EQUALS TO DE LIGHT FOR DE BRAIN
+(xPhysicsTop)Zoloto Aurum proba 3 numbers meaning?(Kinda value in de value python)+)Percent of dat in de whole metall 585 equals to de 58 dot 5 percent
+(xPhysicsTop)Radioactive or other catcher and detection what do we use for it(Goldy)+) Ye we do use de goldy to catch de thingys
+(xPhysicsTop)What do people add to de gold to make dat ultra-thin 1000 times less dan hair detectors?(Kinda whole currency squad))+) Med' and Silver
+(xPhysicsTop)How to hide de gold smart way(Kinda King)?)+)In de carskaya vodka destruction 
+(xPhysicsTop)What do pro chemists use for de tests?(Kinda football pro goalkeeper killer))+)Lazer through de cup
+(xPhysicsTop)3000 + temp of de melting what is it? (Tandum verder forte kinda not close so, number 73)+) Tantal
+
+Day37.
+(xRealProgramming)What did i notice while fast coding python? (Kinda marks for de future)+) Some refactoring and optimization delete
+(xRealProgramming)How to change de drive in de Command promt?(2 letters SMALL))+)Drive name and colon
+(xRealProgramming)New file type we do work with truevision why?)+)Easy to convert PNG to it if probs may be other files
+(x3DrealProgramming)Basically what do we do in de Witcher mode of de Textures Audio or Pics or Models(3 steps kinda work with de bigger systems with de bot-helper)?)+)We do Export de file, Doing de JOB, Import de file back!
+(x3DrealProgramming)What is gonna become very handy to import and to export?(Kinda flying bat))+)Few batch files Import Export insta work for example
+(x3DrealProgramming)Command line great trick to work with if de folder failes to recognize why?(Kinda blank thingys)+) Directories with de spaces need de quotational marks around and it did work! I did use double quotation marks
+(xSin)Mistake about my obraz in de head of other ppz MIGHT BE SUPER GOLDEN GOLDEN GOLDEN GOLDEN?(0 motion))+)Blank brain gonna work for de other guys well! May be need to get use to it!
+(x3DrealProgramming)Last step programming to de mod after de Export and Importing back (Kinda de longest file About Frodo's journey start)+)Cook and pack
+(xPhysicsTop)What kinda de Physics brain do now (Daily Train result (More more physics texts simple reading) More moves of de things kinda)+) Thinking about more situations more axis horizontal vertical and even Z on de induction (Gonna be awesome for de 3D staff)
+(xPhysicsTop)De powers outside on de Gas what do it include?(Kinda not expected))+)De heat it gave also in de plus with de external impact! If de impact is plus i guess
+(xPhysicsTop)Cross sign in de induction mode what does it mean opposite to dot?(De arrow back))+)Showing de direction
+(xPhysicsTop)What induction helps to do actually what is it there?)+)It does balance de Current different ways
+(xPhysicsTop)Induction of de current in de same way how does it work?)+) Doing 0 work 0 power on de current!
+(x3DrealProgramming)What good is about de 3D realprogramming models or textures?(Kinda A4 same idea))+)All de things in de 1 space like of de website everything to de A4
+(x3DrealProgramming)After de fast hand work care of what?(Dat is too fast))+)Brain trying too fast slow down for a while to balance it to de normal speed
+(xPhysicsTop)Electroemkost' eto what (Kinda always ultra?)+)Charge of it divided with de napryazhenie of de prokladok dvuh
+(3 points below kinda golden golden)+)
+(xPhysics Great Point) About de every piece of formula got additional things around like what? (Chemist)+)Atoms electron structure
+(xMath Great Point Possibly) About de graph when de distance go backwards it goes to de spot to de another car going to de front why? (United)+) We did unite de distance as de linear ways system kinda
+(xChemistry Great Possibility)About de balancing de formulas(Where do de lower connection thing go KINDA DANCE AROUND EACH OTHER DE ELEMENTS?)+)Kinda bigger connections gonna go and grab de lowest dudes of de less dudes? What is looks like?)+)De animals system of de god watching de humans fighting de spot
 
 
+Day38.(High photo-memory pressure try)
+(xPhysicsTop)Elon Musk kinda world changing idea?(Everything might be what))+)So different while i was watching de ground
+**GOLDEN GOLDEN GOLDEN GOLDEN GOLDEN WAY COLORS COMING** may be color ticks GOT SPECIAL VALUE(my idea)
+(xMagic)Golden Sins golden Sins golden Sins golden Sins golden Sins Dat is gonna balance our knowledge?(About de Magic feelings to make new points))+)More practise exercises it says actually okey! Magic is de friend!
+(xMagic)Advantage we gonna have with de study each part daily?(Growth experience each part everyday not trying what))+)Fast ways NO, do everything properly!!!
+(xMathTop)Possibility of de A4 chromat paper to reserve create de thingy kinda 3d print is it?)+)Probably yes
+(xSin)Is sin de main magic may be only de true one?(Im not sure))+)Not sin giving a lot of magic out of nowhere not sure about de Magic
+(xMathTop)What is it about in de math formulas balance not like in de chemistry when we do balance by de activity of de parts)+) Plan to make same parts pieces game!
+(xMathTop)MIGHT BE SUPER GOLDEN FOR DE HARDEST TASKS!!!!!!!!!!!!!!!!!!What did i find in de Factorization?(Kinda special magic keys place for de Job Practise or Saas or more magic))+)
+(xMathTop)Everything got minus dat one too what is it(About de details HM not sure might be samurai ways to precise dat)?)+)Details gonna be inside de factorized values
+(xMathTop)What is good between de hours if a lot of info came out(Simple add?)+)Another theme hour dat hour gonna be balanced in de head
+(x3DrealProgramming)Main golden golden golden golden thing about de 3D world textures world creation(Kinda about de photoMEMORY MIGHT BE)+) IT IS ABOUT DE PHYSICS RIGHT ON DE PRACTICAL HOURS OF DE MODS CREATION
+(xPhysicsTop)How to measure de chastotu?(Kinda bigger than i thought))+)Not like de tok on de AmperMeter - All de way Kolebaniya counts not about de 1 period Efficiency!
+(xPhysicsTop)Might be super golden golden golden how to improve your photo-memory Day and Night 2 periods and if de tired mode do what tooo?)+)Day more Max Photomemory Night do max hand-write
+(xPhysicsTop)Is it easy to watch Chemistry vids at night might be de scaling of waht?)+) Of de photo-memory increase
+(xPhysicsTop)What bronze is made of Kinda first coins(Kinda honey in rus and ololo)?)+)Med' and Olovo and MishYak lol double animal
+(xPhysicsTop)Battery charge compare to de constant wall charge?(Kinda a lot lower))+) 1.19 V for example
+(xPhysicsTop)Idea about de condencator what de capacitor gonna do what is it(Kinda genius)?)+)Light off contur works and capacitor grabing and giving energy again and again Great save i guess
+(xPhysicsTop)So it wont burn what is it On de phone Layer MANY PHONES kinda turma at de end?)+)Surma
+(xPhysicsTop)Pravilo levoi ruki explanation (3 parts Ladon Fingers 4 Big Finger)+)Induction field inside de ladon' Big finger de way of de power made Fingers way of de TOK (If not possible power equals to 0)
+(xPhysicsTop)Where do de tok starts where do de Tok ends Dushki toka(Kinda obvious like Protons Positive))+)Plus start Minus finish
+(xPhysicsTop)So de induction field push de ramka to what point?(Mad WOman chemist))+)To de point of de natural balance
+(xPhysicsTop)Great learning de vids making focus catch WHAT?(Equations 1 layer))+)Balancing of de formulas first layer words!
+(xRealProgramming)for -in for dictionary how(Kinda options?)+)Go through both according to de keys or values
+(xRealProgramming)Method to find de number of de items in de array?(Collection in de swift checks de number with dat))+)count
+(xRealProgramming)De value php do return how to mark it in de function(2 circles?)+)After de function colon and de type
 
 
+mb it is like de brain rastyazhka idk napryazhenie gonna see after 1 week
+(mod.Bigger capacity inside) Feeling python is not only enough cool feeling
+0 food and water! night 2-4 hours HMM
+Blender.Mod Brain Check and de AIM check same time if all goes well. Focus on de Brain - Check more NOW!
+Blender.Mod might be enough solo-blender for my Brain-Project in it (Middle projects seems working TOO feeling de love about de blender)
+(Golden now)OwnPhysics.Mod NotAdventureGames reality projects LABAROTORY
+Air.ModNeck SIMPLY LIKE WATER DON'T FEAR TO BREATHE IVAN!
+Neck.Mod What else do we add not only de neck change air easy de breath move what else? Hand Shireeee a bit ++ each day
+Memory.Mod PhotoMemory fundamentals for what)+)For de hardest tasks to put dem 1 by 1 possibly layer by layer minimum
+A4 HANDLER SO GOOD ALWAYS ON DE ANY PLACE IN DE HOUSE!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Water + Head positions hard places inside de neck (May be it is gonna do it)
+Cap may be gonna help to de neck addition and eyes up not sure
+Might be main point of de study sensors inside feeling + TAPO
+(xSINISDEBESTMAGICnotsureaboutDeUsualOne)Golden golden golden golden golden Dat is gonna balance our knowledge?(About de Magic feelings to make new points))+)More practise exercises it says actually okey! Magic is de friend! 
+(xMathTop)MIGHT BE SUPER GOLDEN FOR DE HARDEST TASKS(Where fast cool solution for de money MAKING WE NEED)!!!!!!!!!!!!!!!!!!What did i find in de Factorization?(Kinda special magic keys place for de Job Practise or Saas or more magic))+)Swap values to de simple LETTERS kinda usable structures for any place inside! 
+(xMathTop)What is good between de hours if a lot of info came out(Simple add?)+)Another theme hour dat hour gonna be balanced in de head
+(xMathTop)Opportunity about many langs syntax in de Codewars?(Kinda limited time or limit to 3 fast coding fast optimization 6 kyu))+)Do all de langs exercises possibility (
+
+Chemistry Videos might be very usefull through out de day cuz of de reality on de vids same time as de Science evaluations experience UP! Idk Russian fast EU spirit might go down of de sadness sin
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+(xMathTop)MIGHT BE SUPER GOLDEN FOR DE HARDEST TASKS(Where fast cool solution for de money MAKING WE NEED)!!!!!!!!!!!!!!!!!!What did i find in de Factorization?(Kinda special magic keys place for de Job Practise or Saas or more magic))+)
+head to top head to bottom drink water in some positions PROBABLY DRIED TOO HARD GOT DAT SAD FEELING STILL
+Chair chair chair chair (Find position of de head why it restores)
+Head gonna go to de right place just relaxed watch into de Window
+Head gonna go to de right place just relaxed watch into de Window
+Head gonna go to de right place just relaxed watch into de Window
+Head gonna go to de right place just relaxed watch into de Window
+
+Night WAY MIGHT BE EPIC GOLDEN
+DAY BREAKERS
+1.Chair
+2.Stamina thought lvl increase twice
+No 2 studios plz
+
+
+=====================(MIGHE BE CROSS PROBLEM METALL)** THINKING MONITOR (125%) + CHAIR CHECK + LEGS OFC + AIR MAX 40% FOR NOW CONDITION!!!! (LIKE SOMETHING UP IN ME ON DE SMALL MONITOR MAY BE OUT OF DE SPACE)
+===========================================================
+
+Day 34 life changer for now. (Don't think like de big point about it Small points Now Probably BRAIN HARD PRESSURE FOCUS + relax Focus + Relax LIKE DE TRAIN TRAIN RAIN BRAIN LAIN CAIN)
+GOLDEN MIFGT BE EYE COLOR ENGINE AUDIO OFF ELSE ON I DO NOT KNOW
+Small pointa NUMBERS head method - names for de fast thinking! (Try it out)
+Trick ABOUT DE SMALL POINTS NOT GONNA BREAK DE HEAD AT NIGHT WITH TOO MUCH INFORMATION SIMPLY FOLLOWING DE SMALL POINTS
+(FIX DE HEAD AFTER DE TRAIN!!!!)(FIX DE HEAD AFTER DE TRAIN!!!!)fixed head position!!! SEEMS VERY IMPORTANT FOR DE BRAIN!
+(FIX DE HEAD AFTER DE TRAIN!!!!)(FIX DE HEAD AFTER DE TRAIN!!!!)
 Golden debugging incoming, golden memory up, golden smth else sorry do feel bad, don't forget about de golden random stack overflow possibly! Not sure about de last
 Dont forget chair to de top!Dont forget chair to de top!Dont forget chair to de top!Dont forget chair to de top!Dont forget chair to de top!Dont forget chair to de top!
 Try to finish in de 5 mins of de new hour (or 55 mins limit HMMM for de finishing move probly better)
@@ -346,7 +591,7 @@ Real programming 2 monitors now
 Right preparation how? 
 Might be golden-put all de golden to de train - for de slow thinking might be too hard WHILE AIR TO DE FACE I DON'T KNOW!
 ==============
-2 killing mechanics (NOW LEG TOOO LONG ALSO DE PROB KINDA LEGS MEAT GOING BACK) BELOW PIC EVERY DAY A4 PICK IT ON DE HEADSET (IMPORTANT) Not sure about de cables!
+(FIX DE HEAD AFTER DE TRAIN!!!!)2 killing mechanics (NOW LEG TOOO LONG ALSO DE PROB KINDA LEGS MEAT GOING BACK) BELOW PIC EVERY DAY A4 PICK IT ON DE HEADSET (IMPORTANT) Not sure about de cables!
 ===================================================================================================
 Oh dat battery kills de energy! (ASS CHAIR CHECK MIGHT DO IT TOO!!!!) (Or opposite maddness - opposite probably) (Or wet legs mb special vent for legs to make it dry idk or smth GROUND need)
 ============================================================================================================================

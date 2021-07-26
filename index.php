@@ -43,7 +43,7 @@ function deleteTooMuchSpacesAndStaffSlashS($deleteSpacesText)
     //A bit longer timebreak right now
     
 
-    return preg_replace("/\)\-\)/", "Time break time break Time break time break Time break time break time break time break time break Time break time break time break time break time break Time break time break  ", $deleteSpacesText);
+    return preg_replace("/\)\+\)/", "Time break time break Time break time break Time break time break time break time break time break Time break time break time break time break time break Time break time break  ", $deleteSpacesText);
     //return preg_replace("/\^\/\/w\*\r\$/", "", $deleteSpacesText);
     
     //Normal amount of de breaks may be a big huge!!!
@@ -60,7 +60,7 @@ function deleteTooMuchSpacesAndStaffSlashSCopy($deleteSpacesText)
     //A bit longer timebreak right now
     
 
-    return preg_replace("/\)\+\)/", "Time break time break Time break time break Time break time break time break time break time break Time break time break time break time break time break Time break time break  ", $deleteSpacesText);
+    return preg_replace("/\)\-\)/", "Time break time break Time break time break Time break time break time break time break time break Time break time break time break time break time break Time break time break  ", $deleteSpacesText);
     //return preg_replace("/\^\/\/w\*\r\$/", "", $deleteSpacesText);
     
     //Normal amount of de breaks may be a big huge!!!
@@ -74,8 +74,8 @@ function deleteTooMuchSpacesAndStaffSlashSCopy($deleteSpacesText)
 function changeFileInside($fileName1, $fileName2, $fileName3)
 {
     $file1 = fopen($fileName1, "r");
-    $file2 = fopen($fileName2, "a+");
-    $file3 = fopen($fileName3, "a+");
+    $file2 = fopen($fileName2, "w"); //wat a+
+    //$file3 = fopen($fileName3, "a+");
 
     while(! feof($file1)) {
       
@@ -85,9 +85,12 @@ function changeFileInside($fileName1, $fileName2, $fileName3)
       
     }
 
-    fclose($file2);
-    $file2 = fopen($fileName2, "a+");
 
+    //Addition to de 3rd file
+    //fclose($file2);
+   // $file2 = fopen($fileName2, "a+");
+
+    /*
     while(! feof($file2)) {
 
         echo "it is going on2222";
@@ -95,10 +98,11 @@ function changeFileInside($fileName1, $fileName2, $fileName3)
         fwrite($file3, deleteTooMuchSpacesAndStaffSlashSCopy(fgets($file2)));
          
        }
+       */
 
     fclose($file1);
     fclose($file2);
-    fclose($file3);
+    //fclose($file3);
 
        /*
     $file3 = fopen($fileName2, "r");
