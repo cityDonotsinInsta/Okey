@@ -60,8 +60,9 @@ function deleteTooMuchSpacesAndStaffSlashSCopy($deleteSpacesText)
     //A bit longer timebreak right now
     
 
-    return preg_replace("/\)\-\)/", "Time break time break Time break time break Time break time break time break time break time break Time break time break time break time break time break Time break time break  ", $deleteSpacesText);
+    return preg_replace("/\)\+\)/", "Time break time break Time break time break Time break time break time break time break time break Time break time break time break time break time break Time break time break  ", $deleteSpacesText);
     //return preg_replace("/\^\/\/w\*\r\$/", "", $deleteSpacesText);
+    //return preg_replace("/[ ]{2,199}/", " ", $deleteSpacesText);
     
     //Normal amount of de breaks may be a big huge!!!
     //Time break time break Time break time break Time break time break time break time break time break Time break time break time break time break time break Time break time break time break time break time break Time break time break time break time break time break Time break time break time break 

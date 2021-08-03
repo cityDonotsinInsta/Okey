@@ -535,9 +535,105 @@ Day38.(High photo-memory pressure try)
 (xPhysicsTop)Great learning de vids making focus catch WHAT?(Equations 1 layer))+)Balancing of de formulas first layer words!
 (xRealProgramming)for -in for dictionary how(Kinda options?)+)Go through both according to de keys or values
 (xRealProgramming)Method to find de number of de items in de array?(Collection in de swift checks de number with dat))+)count
-(xRealProgramming)De value php do return how to mark it in de function(2 circles?)+)After de function colon and de type
+(xRealProgramming)De value php do return how to mark it in de function(2 circles?)+)After de function colon and de type like : int
 
 
+Day39.(New algoth Working with de Live Arrays More into 1 turn!)
+(xMathTop)Do more when in de coding?(Kinda move de horse))+)1 turn of de matrix each should bring max value! (Optimization a bit bit later Now Cycles!)
+(xMathTop)So how did we made things right last step in de for inner while loop cycle(Kinda key-word a bit like count)?)+) With de continue
+(xMathTop)So right now we are trying de optimization how?(Solo))+)Solo run through de cycle
+(xMathTop)Kinda cool visual formating for de phone number what is it?(mb hiden cycles Damir may answer here are C++ Java Python for some dict-arrays parenthesis)+) It is about de curly parenthesis in de format string!
+(xPhysicsTop)How do de drel works for example or stiralka or tons of things not sure how many CAR do use it too MM may be like de Java everything!(It is about de electro-contur exercise))+)Collectornii Dvigatel'
+(xPhysicsTop)2 main parts collectornii electro-dvigatel' kinda 1 to make some friction stability de name about it and de 2nd one about de collections in java lol?)+) It is shetki small cables HMMM MB KATUSHKIIIII (Nope shetki are different) DAT IS WHY IDK, 2nd one is de collector + - 
+(xPhysicsTop)What is de main reason for shetki collector and de scolzyashie contacti how do they all work?)+) Pravilo levoi ruki moving de ramka and again and again move move, grabing de plus sign on de right side (Forever cycle battery)
+(xPhysicsTop)Better things about de Engine how to improve? (Few words)+)========================================================================================================================================================================
+=================================================================================FULLFILL=======================================================================================================================================================
+(xPhysicsTop)Ochen' wazhno v katushke what do we talk about?(Center Chem Very Popular Element))+)Zhelezo gonna work better each peace matters!
+(xPhysicsTop)Zamikanie physicall first view, wat is it(Kinda electricity kiss each other but STAFF IS WORKING)?)+)Collector gathers + and - at de same time!
+(xPhysicsTop)Collector solve of de zamikanie (2 modifications 1 better (FOR 100 RAMKI) than another not only 2 parts 2 more parts)+)
+ 
+Day40.(Pray day brain balance leg balance)
+More more more type later on
+(Doing smth sin) Dad was too fast never showed any 
+Pray even not understanding! (I got enough what i did want)
+Kinda sun different things about de actions in de chems MAIN WORDS PLAY AROUND
+Auto-sword only preparation to de hand. Moment of importance <Importance>
+Vhodya v silneishii mir mezhdu bogom i mirom <Importance>
+
+
+
+
+
+Day41.(Golden about de brain first point might be)
+(xLife)(Most thing i do need what is it?(Kinda for run)+)Stamina programm to make everything very real (Max Brain speed increase words up!)
+(xRealProgramming)How to grab easy any order of de symbols JS for example? (Kinda better Alphabet)+)ASCII table string char Code At(0) - starting poing minus 96 for example for de alphabet
+(xRealProgramming)What do stop us like de building of de flower shop xD(1 shpuntik))+)1 boltik of doing stops a lot
+(xRealProgramming)Solve of de point with de 1 shpuntik kinda another lvl of brain?(Dodge))+)You do skip de point later on brain got de solution!
+(ВнеУченияВещей на страничках ТИПО АИМ BLENDER + STAMINA)
+(КодоМусорЛимитедНиКодСамоЦель а Науки и Листики А4 Выше два пункта круче)
+(Пометки и потом в один момент все пометки разобрать ПИТОН КОДИНГ ЧАСЫ!!!)
+(Thinking about de synchromind on de full pressure)
+(Pro Okislenie Kogda Slabeet по периоду если идти )
+(Mendeleev's table of de Math point of vies(Contrasts places MB GOD VALUE)
+(xLife)New thing gonna come about what type of de might be might be?(Insta parallel not sure need what 1st?))+)Do not sin!
+(xTrigometryTop)Great new lvl fps kinda what is it?(Pic after pic))+)Kinda blender your mind xD
+(xTrigometryTop)Trick to play with de trigonometry?(Marksman or pro Architect)+)Mark de objects you paint with de Top Bottom signs 1 letter OR A4 for TOP A4 for BOTTOM pro
+(xChemistryTop)What do i need for de easy chemistry(Kinda config next lvl)?)+)Electronical config numbers yay!!!
+
+Day42.(Day of de god's sword - Formulas = God's steps MM)
+(xRealProgramming)GreatModification golden golden golden 2 in 1 how are we gonna learn?(Try to focus special tasks)+)PUZZLES HARDER AUTHOUT trying now, CUZ IT LOOKS LIKE DE REAL PROJECT and got a lot of points to optimize!
+(xRealPhysics)What about de napryazhenie?(Dat You letter kinda radius multiplied with what))+)Lol it is not de radius resistors multiplied with de sila toka
+(xRealPhysics)What happens to de Current esli est' katuha inductivnosti (Magnetic?)+) It is gonna become magnetic field energy like de electrons field kinda lul
+(xRealPhysics)How are we gonna learn de formulas(Special paper)?)+)Like de symbols of de god!
+(xRealPhysics)Princip electro-polya nositely?(BeZ and With)+)Without de field not sure about de ending point, With de electro-field i know de last spot
+(xRealPhysics)Focusing electro gonna help much now?)+)Yes i do think so!
+(xRealPhysics)How do dreifovaya skorost' impact de sila toka(Quality of de line AIM400KG)?)+)More dreifovaya More sila toka
+(xRealPhysics)Do all metals electroprovodni inside particles de same?)+)Yes
+mod.Chemistry found which layer? Kinda after kicking out de Osnovaniya (kinda areas for de spaceship like reactions) You may modify osnovaniya and kick it before de reaction or while doing it on de timings of de things happening
+mod.Chemistry GOLDEN GOLDEN GOLDEN GOLDEN GOLDEN Do we see de physical layers now like de osnovaniya and de reaction producs work-job? Yes!!!!
+(xRealPhysics)Question about de 100 233 when de coefficients are 0
+(xMathTop)Tochki Extremuma proizvodnaya ravna 0 pochemu?(Try of de explanation))+)Line is horizontal to X, linear means 0 Endings do not count!
+(xBlenderDaily)What de projects are kinda big are really small without de small points at least!!! Kinda big is de grouped ruling format small points!!! Do master of de small points gonna become de master of de Setup special environment like de physics envi around de atom atoms or physcial ideal laws closed area?)+)Seems so!
+(xBlenderDaily)Golden Golden Golden Golden Golden Focus lvl while installing environment less serious n1 explains small points! (Create more of what?)+) Small small points
+(xStamina)War problem about de PCs kinda what element is used to limit de problem on de machines?(CS:GO))+)CS NUMBER 55 Mendeleev Table, helping to fix de timers fast Not make it buggy!
+(xLife)De main thing about de current Practical projects study PRACTICALLY (We do love)?)+)Install de big project and do de small points modifications
+(xSins)When to pray great moments in de sin reality measurement?(Kinda early and late))+) When human body is off by de sin
+(xRealPhysics)Right shell order numbers?(Love with God number, Work number, Beer number, My building number, Not mad number))+) 2 8 18 32 50
+(xRealPhysics)s p d f orbitals differences what are they(Increase +2 every step kinda step got de container)?)+) 1 lobe, 3 lobes, 5 lobes, 7 lobes, ye + 2 also got maximum 2 elecs per lvl
+(xChemistryTop) i need to think how to learn dat bit formula 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p5 any ideas how to remember it easy?(Number 3))+)3 parts division may be first idea!
+(xRealPhysics)Humidity of de steam what is it(Kinda MAX?)+)100% it is!
+(xRealPhysics)About de bottom of de bulb how do we call it in Rus-sin lang(Every building got it on de bottom solid and strong) NOT SOKOL different?)+)Cokol'
+(xRealPhysics)Next Time solution what dat rule is about(All formulas first time next?)+)Okey to fail first time bigger tasks
+(xCodeCademyCopy)(0)Chto izmeryaetsya v VATAH(Kinda power)?)+)Moshnost'!!!! Symbol BT small second one!
+
+
+
+
+(<ZHOPKAAAAAAAAAAAAAAAAAAAAAA breather>)Firstly popkins pod stol ne boyaca! Boyaca toka boga he is helping 500% (Sport 1 of 2 days working)
+
+mod.YesProGuyPhysics <tries association always like we do!!!>
+mod.circlesJobTrigometry where are they?)+) Inside de Special Math Every task <important>
+<Important>Dzen podgruzhaert VIDEOS like a <SCAM>!!!
+mod.<Important>Codecademy learning only around what lvl? Around de God's steps <FIRST GOOD KNOWLEDGE FILTER RE-FILTER TRY>
+<FIRST GOOD KNOWLEDGE FILTER RE-FILTER TRY><FIRST GOOD KNOWLEDGE FILTER RE-FILTER TRY><FIRST GOOD KNOWLEDGE FILTER RE-FILTER TRY>
+mod.godLanguageLearning -> Codecademy small steps of god = fly to de humans! 
+mod.Tasks first time failing preparing to de very REAL GOD'S STEPS FILE!!!
+mod.Blender aim BASEMENT creation MONTH. to make first paid app!
+mod.ASS IN FRONT breathing modifications easier!!!
+mod.Life watch youreveryday progress in de new PART, part of de CREATOR!!!
+mod.Prays at night ppz do multiply de sins!!!! Or morning more!!!
+mod.Reality Big projects - are small, small points are huge huge, faster setup not so serious gogo
+mod.Chemistry found which layer? Kinda after kicking out de Osnovaniya (kinda areas for de spaceship like reactions) You may modify osnovaniya and kick it before de reaction or while doing it on de timings of de things happening
+mod.Hours(Job hours for de stabilization <Kinda works cool> buffer of de head!)
+modLangsStudy.puzzles why? Cuz it is huge like de real projects many small tiny moments!!!
+mod.Trigonometry kinda BLENDER YOUR MIND 2 DIMENSIONS TO TOP BOTTOM mb third different objects
+mod.Color even more color surface many many color may be timings IDK <Kinda epic might be>
+mod.Chemistry. go to de things more used upper in de table and common in human things cuz god hand loving de human touches
+mod.brainChemistryGolden make everything molecula or atom value very cool results <Importance>
+mod.programming tasks straight plan after de overall plan time economy for de SCIENCE
+chem.mod (xChemistryTop)About de reaction why does liquid to gas reation do look so strange (Kinda layer) VOLUME CHANGE INSIDE volume makes it strange look through it easy
+colors.mod sound color eyes MM later a bit (like BDO pro guy maker vision)
+Algorithms.mod kinda cycle of de cycles
 mb it is like de brain rastyazhka idk napryazhenie gonna see after 1 week
 (mod.Bigger capacity inside) Feeling python is not only enough cool feeling
 0 food and water! night 2-4 hours HMM
